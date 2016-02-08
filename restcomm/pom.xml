@@ -150,6 +150,7 @@
     <module>restcomm.extension.api</module>
     <module>restcomm.extension.traffic.throttling</module>
     <module>restcomm.monitoring.service</module>
+    <module>restcomm.geolocation</module>
   </modules>
 
   <dependencyManagement>
